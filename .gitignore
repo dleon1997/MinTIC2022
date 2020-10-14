@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
+.ipynb_checkpoints/1-Tareas Básicas en Python-checkpoint.ipynb
+.ipynb_checkpoints/1-Tareas Básicas en Python-checkpoint.ipynb
+.ipynb_checkpoints/3. Funciones y alcance de variables-checkpoint.ipynb
+.ipynb_checkpoints/2. Utilizando Python como una calculadora-checkpoint.ipynb
+.ipynb_checkpoints/5.Utilizando Python como una calculadora-checkpoint.ipynb
+=======
 # C extensions
 *.so
 
@@ -106,3 +113,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+>>>>>>> efa4d0ab1050645e4eab4fbc61e162eb787ee3fb
+
